@@ -1,0 +1,30 @@
+using System;
+
+
+namespace Trapezoids
+{
+    class Trapezoids
+    {
+        static void Main()
+        {
+            //Value of a
+            Console.WriteLine("Enter value for a:");
+            string inputA = Console.ReadLine();
+            double a = double.Parse(inputA);
+
+            //Value of b
+            Console.WriteLine("Enter value for b:");
+            string inputB = Console.ReadLine();
+            double b = double.Parse(inputB);
+
+            //Value for h
+            Console.WriteLine("Enter value for height on your trapezoid.");
+            string inputC = Console.ReadLine();
+            double h = double.Parse(inputC);
+
+            //Area of trapezoid
+            double p = ((a + b) / 2) * h;
+            Console.WriteLine(p);
+        }
+    }
+}

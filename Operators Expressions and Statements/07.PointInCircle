@@ -1,0 +1,28 @@
+using System;
+
+
+namespace PointInCircle
+{
+    class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("Type X value:");
+            string xValue = Console.ReadLine();
+            double x = double.Parse(xValue);
+
+            Console.WriteLine("Type Y value:");
+            string yValue = Console.ReadLine();
+            double y = double.Parse(yValue);
+            
+            if ((x*x)+(y*y)<=5*5)
+            {
+                Console.WriteLine("True");
+            }
+            else
+            {
+                Console.WriteLine("False");
+            }
+        }
+    }
+}

@@ -1,0 +1,31 @@
+using System;
+
+namespace DivideBy7and5
+{
+    class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("Check if your number is divided by 7 and 5:");
+
+            string divided = Console.ReadLine();
+            int number = int.Parse(divided);
+
+            if (number % 7 == 0)
+            {
+                if (number % 5 == 0)
+                {
+                    Console.WriteLine("True");
+                }
+                else
+                {
+                    Console.WriteLine("False");
+                }
+           }
+            else
+            {
+                Console.WriteLine("False");
+            }
+        }
+    }
+}

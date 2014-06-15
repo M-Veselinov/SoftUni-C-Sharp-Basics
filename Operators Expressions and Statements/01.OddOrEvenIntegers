@@ -1,0 +1,20 @@
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        string b = Console.ReadLine();
+        int a = int.Parse(b);
+
+        if (a % 2 == 0)
+        {
+            Console.WriteLine("Number Is Even");
+        }
+        else
+        {
+            Console.WriteLine("Number is Odd");
+        }
+        }
+    }
+

@@ -1,0 +1,25 @@
+using System;
+
+namespace ThirdDigit
+{
+    class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("Type your number:");
+            string number = Console.ReadLine();
+            int digit = int.Parse(number);
+
+            if ((digit / 100) % 7 == 0) 
+            {
+                Console.WriteLine("True");
+            }
+
+            else
+            {
+                Console.WriteLine("False");
+            }
+            
+        }
+    }
+}

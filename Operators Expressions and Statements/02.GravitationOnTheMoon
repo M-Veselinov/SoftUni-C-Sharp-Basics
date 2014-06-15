@@ -1,0 +1,21 @@
+using System;
+
+namespace GravitationOnTheMoon
+{
+    class GravitationOnTheMoon
+    {
+        static void Main()
+        {
+            Console.Write("Type your Weight: ");
+            string str = Console.ReadLine();
+            double earthWeight = double.Parse(str);
+            double moonWeight = earthWeight *(17d / 100d);
+
+
+            Console.WriteLine("Your Weight:" + earthWeight);
+
+            Console.WriteLine("Your Moon Weight:" + moonWeight);
+            
+        }
+    }
+}

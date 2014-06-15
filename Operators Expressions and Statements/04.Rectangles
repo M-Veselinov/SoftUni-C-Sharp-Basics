@@ -1,0 +1,25 @@
+using System;
+
+namespace Rectangles
+{
+    class Rectangles
+    {
+        static void Main()
+        {
+            Console.WriteLine("Type your rectangle's width:");
+            string width = Console.ReadLine();
+            int widthValue = int.Parse(width);
+
+            Console.WriteLine("Type your rectangle's height:");
+            string height = Console.ReadLine();
+            int heightValue = int.Parse(height);
+
+            
+
+            Console.WriteLine("The area of your rectangle:");
+            Console.WriteLine(widthValue * heightValue);
+            Console.WriteLine("Perimeter of your rectangle:");
+            Console.WriteLine((2*widthValue) + (2*heightValue));
+        }
+    }
+}
