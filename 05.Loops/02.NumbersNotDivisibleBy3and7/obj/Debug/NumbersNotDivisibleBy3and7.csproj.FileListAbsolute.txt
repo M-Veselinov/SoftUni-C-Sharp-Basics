@@ -1,0 +1,1 @@
+c:\users\mario\documents\visual studio 2012\Projects\Loops\NumbersNotDivisibleBy3and7\bin\Debug\NumbersNotDivisibleBy3and7.exe.config

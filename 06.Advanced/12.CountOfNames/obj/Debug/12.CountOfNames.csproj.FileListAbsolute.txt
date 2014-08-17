@@ -1,0 +1,1 @@
+c:\Users\Mario\documents\visual studio 2012\Projects\Advanced\12.CountOfNames\bin\Debug\12.CountOfNames.exe.config

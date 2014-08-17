@@ -1,0 +1,5 @@
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\07.SortThreeNumbersWithNestedIfs\bin\Debug\07.SortThreeNumbersWithNestedIfs.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\07.SortThreeNumbersWithNestedIfs\bin\Debug\07.SortThreeNumbersWithNestedIfs.pdb
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\07.SortThreeNumbersWithNestedIfs\obj\Debug\07.SortThreeNumbersWithNestedIfs.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\07.SortThreeNumbersWithNestedIfs\obj\Debug\07.SortThreeNumbersWithNestedIfs.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\07.SortThreeNumbersWithNestedIfs\obj\Debug\07.SortThreeNumbersWithNestedIfs.pdb

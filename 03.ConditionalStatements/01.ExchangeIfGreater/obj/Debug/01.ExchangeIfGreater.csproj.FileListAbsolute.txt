@@ -1,0 +1,2 @@
+c:\users\mario\documents\visual studio 2012\Projects\ConditionalStatements\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+c:\users\mario\documents\visual studio 2012\Projects\ConditionalStatements\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

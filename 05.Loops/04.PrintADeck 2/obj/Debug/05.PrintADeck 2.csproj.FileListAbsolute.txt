@@ -1,0 +1,5 @@
+c:\users\mario\documents\visual studio 2012\Projects\Loops\04.PrintADeck 2\bin\Debug\04.PrintADeck 2.exe
+c:\users\mario\documents\visual studio 2012\Projects\Loops\04.PrintADeck 2\bin\Debug\04.PrintADeck 2.pdb
+c:\users\mario\documents\visual studio 2012\Projects\Loops\04.PrintADeck 2\obj\Debug\04.PrintADeck 2.exe
+c:\users\mario\documents\visual studio 2012\Projects\Loops\04.PrintADeck 2\obj\Debug\04.PrintADeck 2.pdb
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Loops\04.PrintADeck 2\obj\Debug\05.PrintADeck 2.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+c:\Users\Mario\documents\visual studio 2012\Projects\Advanced\02.PrimeNumber\bin\Debug\02.PrimeNumber.exe.config

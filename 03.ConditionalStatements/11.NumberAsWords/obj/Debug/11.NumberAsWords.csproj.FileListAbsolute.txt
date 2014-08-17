@@ -1,0 +1,2 @@
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\11.NumberAsWords\bin\Debug\11.NumberAsWords.exe.config
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\11.NumberAsWords\obj\Debug\11.NumberAsWords.csprojResolveAssemblyReference.cache

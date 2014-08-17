@@ -1,0 +1,4 @@
+c:\users\mario\documents\visual studio 2012\Projects\Loops\03.MinMaxSumAndAverageOfNnumbers\bin\Debug\03.MinMaxSumAndAverageOfNnumbers.exe
+c:\users\mario\documents\visual studio 2012\Projects\Loops\03.MinMaxSumAndAverageOfNnumbers\bin\Debug\03.MinMaxSumAndAverageOfNnumbers.pdb
+c:\users\mario\documents\visual studio 2012\Projects\Loops\03.MinMaxSumAndAverageOfNnumbers\obj\Debug\03.MinMaxSumAndAverageOfNnumbers.exe
+c:\users\mario\documents\visual studio 2012\Projects\Loops\03.MinMaxSumAndAverageOfNnumbers\obj\Debug\03.MinMaxSumAndAverageOfNnumbers.pdb

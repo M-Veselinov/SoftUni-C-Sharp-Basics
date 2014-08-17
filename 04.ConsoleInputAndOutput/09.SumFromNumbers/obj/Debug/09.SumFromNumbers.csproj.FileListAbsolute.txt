@@ -1,0 +1,5 @@
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\09.SumFromNumbers\bin\Debug\09.SumFromNumbers.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\09.SumFromNumbers\bin\Debug\09.SumFromNumbers.pdb
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\09.SumFromNumbers\obj\Debug\09.SumFromNumbers.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\09.SumFromNumbers\obj\Debug\09.SumFromNumbers.pdb
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\09.SumFromNumbers\obj\Debug\09.SumFromNumbers.csprojResolveAssemblyReference.cache

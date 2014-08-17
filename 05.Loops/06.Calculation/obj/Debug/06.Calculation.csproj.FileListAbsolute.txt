@@ -1,0 +1,5 @@
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Loops\06.Calculation\bin\Debug\06.Calculation.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Loops\06.Calculation\bin\Debug\06.Calculation.pdb
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Loops\06.Calculation\obj\Debug\06.Calculation.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Loops\06.Calculation\obj\Debug\06.Calculation.pdb
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\Loops\06.Calculation\obj\Debug\06.Calculation.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\mario\documents\visual studio 2012\Projects\Loops\04.PrintADeckOf52cards\bin\Debug\04.PrintADeckOf52cards.exe.config
+c:\users\mario\documents\visual studio 2012\Projects\Loops\04.PrintADeckOf52cards\bin\Debug\04.PrintADeckOf52cards.exe
+c:\users\mario\documents\visual studio 2012\Projects\Loops\04.PrintADeckOf52cards\bin\Debug\04.PrintADeckOf52cards.pdb
+c:\users\mario\documents\visual studio 2012\Projects\Loops\04.PrintADeckOf52cards\obj\Debug\04.PrintADeckOf52cards.csprojResolveAssemblyReference.cache
+c:\users\mario\documents\visual studio 2012\Projects\Loops\04.PrintADeckOf52cards\obj\Debug\04.PrintADeckOf52cards.exe
+c:\users\mario\documents\visual studio 2012\Projects\Loops\04.PrintADeckOf52cards\obj\Debug\04.PrintADeckOf52cards.pdb

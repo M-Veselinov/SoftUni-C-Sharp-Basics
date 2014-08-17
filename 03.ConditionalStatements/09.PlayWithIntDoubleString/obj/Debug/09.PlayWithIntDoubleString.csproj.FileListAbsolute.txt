@@ -1,0 +1,5 @@
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\09.PlayWithIntDoubleString\bin\Debug\09.PlayWithIntDoubleString.pdb
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\09.PlayWithIntDoubleString\obj\Debug\09.PlayWithIntDoubleString.pdb

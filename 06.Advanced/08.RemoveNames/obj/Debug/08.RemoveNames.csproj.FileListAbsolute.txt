@@ -1,0 +1,1 @@
+c:\Users\Mario\documents\visual studio 2012\Projects\Advanced\08.RemoveNames\bin\Debug\08.RemoveNames.exe.config

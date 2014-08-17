@@ -1,0 +1,5 @@
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.pdb
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb

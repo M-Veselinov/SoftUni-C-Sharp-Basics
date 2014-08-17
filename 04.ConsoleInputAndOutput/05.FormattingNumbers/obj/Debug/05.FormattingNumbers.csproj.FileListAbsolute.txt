@@ -1,0 +1,5 @@
+c:\users\mario\documents\visual studio 2012\Projects\ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.exe
+c:\users\mario\documents\visual studio 2012\Projects\ConsoleInputOutput\05.FormattingNumbers\bin\Debug\05.FormattingNumbers.pdb
+c:\users\mario\documents\visual studio 2012\Projects\ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.csprojResolveAssemblyReference.cache
+c:\users\mario\documents\visual studio 2012\Projects\ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.exe
+c:\users\mario\documents\visual studio 2012\Projects\ConsoleInputOutput\05.FormattingNumbers\obj\Debug\05.FormattingNumbers.pdb

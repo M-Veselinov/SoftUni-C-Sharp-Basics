@@ -1,0 +1,1 @@
+c:\Users\Mario\documents\visual studio 2012\Projects\Advanced\15.CountingWordInText\bin\Debug\15.CountingWordInText.exe.config

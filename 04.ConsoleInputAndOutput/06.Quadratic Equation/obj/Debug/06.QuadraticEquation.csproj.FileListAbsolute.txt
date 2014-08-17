@@ -1,0 +1,5 @@
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\06.Quadratic Equation\bin\Debug\06.Quadratic Equation.pdb
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\06.Quadratic Equation\obj\Debug\06.QuadraticEquation.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\06.Quadratic Equation\obj\Debug\06.Quadratic Equation.pdb

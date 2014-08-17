@@ -1,0 +1,2 @@
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\NumbersFrom1toN\obj\Debug\NumbersFrom1toN.exe
+C:\Users\Mario\Documents\Visual Studio 2012\Projects\ConsoleInputOutput\NumbersFrom1toN\obj\Debug\NumbersFrom1toN.pdb
